@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 7903949957,
+  "duration": 8106922617,
   "status": "passed"
 });
 formatter.scenario({
@@ -82,88 +82,88 @@ formatter.match({
   "location": "SearchSteps.user_is_home_page()"
 });
 formatter.result({
-  "duration": 232224819,
+  "duration": 163704040,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.go_to_the_login_page()"
 });
 formatter.result({
-  "duration": 1382230084,
+  "duration": 1343749869,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_enters_username_and_password_and_click_button()"
 });
 formatter.result({
-  "duration": 3239304700,
+  "duration": 2374292232,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_is_on_logged_in_home_page()"
 });
 formatter.result({
-  "duration": 80801818,
+  "duration": 59319625,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_enter_the_Search_box_Iphone()"
 });
 formatter.result({
-  "duration": 111674847,
+  "duration": 69014693,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_click_the_Search_button()"
 });
 formatter.result({
-  "duration": 4163921084,
+  "duration": 3819404142,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_See_the_results_are_related_to_iphone()"
 });
 formatter.result({
-  "duration": 156680275,
+  "duration": 120096408,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_open_the_second_page()"
 });
 formatter.result({
-  "duration": 10495647771,
+  "duration": 10426300093,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_add_the_third_product_on_my_favourite()"
 });
 formatter.result({
-  "duration": 407338014,
+  "duration": 349911026,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_go_to_favourite_page()"
 });
 formatter.result({
-  "duration": 8046414355,
+  "duration": 7790996966,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_remove_the_product_which_is_adding_before()"
 });
 formatter.result({
-  "duration": 8668236212,
+  "duration": 8316552665,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_is_logged_out()"
 });
 formatter.result({
-  "duration": 13537103519,
+  "duration": 13188098232,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1624890609,
+  "duration": 1540938416,
   "status": "passed"
 });
 });
