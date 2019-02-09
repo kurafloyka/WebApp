@@ -11,6 +11,10 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.apache.log4j.Logger;
 import org.junit.Assert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.interactions.Actions;
+
+import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 

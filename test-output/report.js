@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 8106922617,
+  "duration": 6103171247,
   "status": "passed"
 });
 formatter.scenario({
@@ -82,88 +82,87 @@ formatter.match({
   "location": "SearchSteps.user_is_home_page()"
 });
 formatter.result({
-  "duration": 163704040,
+  "duration": 133401971,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.go_to_the_login_page()"
 });
 formatter.result({
-  "duration": 1343749869,
+  "duration": 820715594,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_enters_username_and_password_and_click_button()"
 });
 formatter.result({
-  "duration": 2374292232,
+  "duration": 1926486725,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_is_on_logged_in_home_page()"
 });
 formatter.result({
-  "duration": 59319625,
+  "duration": 23299247,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_enter_the_Search_box_Iphone()"
 });
 formatter.result({
-  "duration": 69014693,
+  "duration": 38366144,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_click_the_Search_button()"
 });
 formatter.result({
-  "duration": 3819404142,
+  "duration": 3179693913,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_See_the_results_are_related_to_iphone()"
 });
 formatter.result({
-  "duration": 120096408,
+  "duration": 67576579,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_open_the_second_page()"
 });
 formatter.result({
-  "duration": 10426300093,
+  "duration": 10313548522,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_add_the_third_product_on_my_favourite()"
 });
 formatter.result({
-  "duration": 349911026,
+  "duration": 309283246,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchSteps.user_go_to_favourite_page()"
 });
 formatter.result({
-  "duration": 7790996966,
-  "status": "passed"
+  "duration": 6440604290,
+  "error_message": "org.openqa.selenium.ElementNotInteractableException: Element \u003ca href\u003d\"https://www.n11.com/hesabim/istek-listelerim\"\u003e could not be scrolled into view\nBuild info: version: \u00273.5.3\u0027, revision: \u0027a88d25fe6b\u0027, time: \u00272017-08-29T12:42:44.417Z\u0027\nSystem info: host: \u0027LAPTOP-4IMRSHDL\u0027, ip: \u0027192.168.65.2\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities [{moz:profile\u003dC:\\Users\\FARUK\\AppData\\Local\\Temp\\rust_mozprofile.yPykAR6oA4Pp, rotatable\u003dfalse, moz:geckodriverVersion\u003d0.23.0, timeouts\u003d{implicit\u003d0, pageLoad\u003d300000, script\u003d30000}, pageLoadStrategy\u003dnormal, unhandledPromptBehavior\u003ddismiss and notify, strictFileInteractability\u003dfalse, moz:headless\u003dfalse, platform\u003dXP, moz:accessibilityChecks\u003dfalse, moz:useNonSpecCompliantPointerOrigin\u003dfalse, acceptInsecureCerts\u003dfalse, browserVersion\u003d65.0, moz:shutdownTimeout\u003d60000, platformVersion\u003d10.0, moz:processID\u003d6336, browserName\u003dfirefox, javascriptEnabled\u003dtrue, platformName\u003dXP, setWindowRect\u003dtrue, moz:webdriverClick\u003dtrue}]\nSession ID: 8e8b27eb-4d70-4c46-9f0f-df1ee1661d5c\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:275)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:82)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)\r\n\tat com.sun.proxy.$Proxy17.click(Unknown Source)\r\n\tat com.qa.pages.HomePage.setPageUp(HomePage.java:108)\r\n\tat com.qa.stepDefinitions.SearchSteps.user_go_to_favourite_page(SearchSteps.java:141)\r\n\tat ✽.When User go to favourite page(/Users/FARUK/IdeaProjects/WebApp/src/main/java/com/qa/features/search.feature:14)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "SearchSteps.user_remove_the_product_which_is_adding_before()"
 });
 formatter.result({
-  "duration": 8316552665,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SearchSteps.user_is_logged_out()"
 });
 formatter.result({
-  "duration": 13188098232,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 1540938416,
+  "duration": 889984000,
   "status": "passed"
 });
 });
