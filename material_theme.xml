@@ -2,7 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="651fff" />
+    <option name="accentColor" value="ffeb3b" />
     <option name="userId" value="67cdbeff:1681e086406:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
