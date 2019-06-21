@@ -2,8 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="search" type="Cucumber" />
       <mapping pattern="locatorInfo" type="JSON" />
       <mapping pattern="file1" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="Properties" />
       <mapping pattern="log4j" type="Properties" />
     </extensionMap>
   </component>
