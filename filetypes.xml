@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="locatorInfo" type="JSON" />
       <mapping pattern="file1" type="PLAIN_TEXT" />
+      <mapping pattern="log4j" type="Properties" />
     </extensionMap>
   </component>
 </application>
