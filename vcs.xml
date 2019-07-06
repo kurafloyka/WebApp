@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/kurafloyka/n11.com.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kolorobot/spring-mvc-quickstart-archetype.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\FARUK\IdeaProjects" />
