@@ -9,6 +9,7 @@
       <mapping pattern="config" type="Properties" />
       <mapping pattern="log4j" type="Properties" />
       <mapping pattern="web" type="XML" />
+      <mapping pattern="HelloWeb-servlet" type="XML" />
     </extensionMap>
   </component>
 </application>
