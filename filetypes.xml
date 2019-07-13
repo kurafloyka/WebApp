@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="search" type="Cucumber" />
       <mapping pattern="imageController" type="Cucumber" />
+      <mapping pattern="sample" type="JSON" />
       <mapping pattern="locatorInfo" type="JSON" />
       <mapping pattern="file1" type="PLAIN_TEXT" />
       <mapping pattern="config" type="Properties" />
