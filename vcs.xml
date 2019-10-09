@@ -18,6 +18,10 @@
           <option name="url" value="https://git.testinium.io/_RelatedDijital/relateddigitalcloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.testinium.io/_RelatedDijital/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\FARUK\IdeaProjects" />
